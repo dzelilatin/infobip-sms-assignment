@@ -6,7 +6,7 @@ The program reads a list of phone numbers and sender IDs from a `messages.csv` f
 
 ---
 
-### ## What's in Here?
+### What's in Here?
 
 * `send_sms.py`: The main Python script that does all the work.
 * `messages.csv`: This is where you put the numbers you want to text. You need to fill in the `SenderId` and `MSISDN` columns yourself.
@@ -16,7 +16,7 @@ The program reads a list of phone numbers and sender IDs from a `messages.csv` f
 
 ---
 
-### ## How to Get it Running
+### How to Get it Running
 
 **1. Set up the project:**
 First, clone the repository to your computer and navigate into the folder.
