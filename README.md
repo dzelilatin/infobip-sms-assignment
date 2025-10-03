@@ -21,7 +21,7 @@ The program reads a list of phone numbers and sender IDs from a `messages.csv` f
 **1. Set up the project:**
 First, clone the repository to your computer and navigate into the folder.
 ```bash
-git clone [https://github.com/dzelilatin/infobip-sms-assignment.git](https://github.com/dzelilatin/infobip-sms-assignment.git)
+git clone https://github.com/dzelilatin/infobip-sms-assignment.git
 cd infobip-sms-assignment
 ```
 
